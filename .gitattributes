@@ -1,0 +1,12 @@
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI03_PI05_FINAL_GUARD_T824911/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI06_POST_BASE_T825849/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI06_POST_INTERFERENCIA_T826449/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI07_PREADQUISICION_TC_T824914/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI07_PREADQ_R03_T846520/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI07_R03_POST4_T849645/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI08_A_CONSOLIDADA_T861426/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI09_C_HEREDADA_T884835/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI09_DISCOVERY_PRE_D_T907543/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI10_R02_P02_NEUTRAL_T922377/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/reproducibilidad/materiales/PI11_REAL2_PRE_T947395/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text
+/DEE[[:space:]]Cognitive[[:space:]]2.0/sistema/estado/servicios_persistentes/ECI02_PI03_REPRO_PI04_PI05_PI07_PI10_REAL2_01/cola.sqlite3 filter=lfs diff=lfs merge=lfs -text

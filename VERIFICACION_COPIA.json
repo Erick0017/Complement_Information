@@ -1,0 +1,91 @@
+{
+  "source": "D:\\GENESIS AI\\GENESIS 5.0\\simulador de universo ab-initio\\dee_libreria\\VERSION_27\\tests\\documantacion vital\\DEE thinking\\DEE Cognitive 2.0",
+  "destination": "D:\\GENESIS AI\\GENESIS 5.0\\simulador de universo ab-initio\\dee_libreria\\VERSION_27\\tests\\documantacion vital\\INDISPENSABLE\\DEE Cognitive 2.0",
+  "finished": "2026-11-20T09:47:53.466760-06:00",
+  "state": "STATICALLY_VERIFIED_NATIVE_NOT_OPENED",
+  "life_id": "ECI02_PI03_REPRO_PI04_PI05_PI07_PI10_REAL2_01",
+  "N": 67,
+  "tick": 947395,
+  "snapshot_sha256": "fd7372b7f2adc9040866fab8adfaca0d79e0bd18e997c0abc0651fe4fa3c23dc",
+  "copied_source_files": 131001,
+  "copied_source_bytes": 7879758865,
+  "product_files": 131002,
+  "product_bytes": 7879761559,
+  "groups_bytes": {
+    "ABRIR_DEE_COGNITIVE.bat": 303,
+    "CONTINUIDAD_DEE_COGNITIVE_2_0.json": 217344,
+    "DEE_Cognitive_2_0_Manual_Maestro_DCS11_MM_001_Edicion_1_21.docx": 314924,
+    "LEER_PRIMERO.md": 2143,
+    "PROYECTO.json": 59242,
+    "sistema": 1189435601,
+    "reproducibilidad": 6644915648,
+    "motor": 44681389,
+    "aplicacion": 134965
+  },
+  "excluded": {},
+  "all_copied_files_stream_SHA256_recorded": true,
+  "preserved_hashes_matched": 105063,
+  "destination_readback_hashes": 169,
+  "SQLite_integrity": [
+    [
+      "ok"
+    ]
+  ],
+  "SQLite_request_status_counts": {
+    "completed": 3603,
+    "failed_preserved": 1,
+    "rejected_invalid": 7
+  },
+  "snapshot_gzip_crc_and_decoded_identity": true,
+  "no_principal_lock_or_SQLite_sidecars_during_copy": true,
+  "source_metadata_unchanged": true,
+  "copy_only_changes": {
+    "PROYECTO.json": [
+      "current_available_lives restricted to included principal",
+      "public_presentation explicitly absent"
+    ],
+    "LEER_PRIMERO.md": "new transport instructions"
+  },
+  "source_PROYECTO_sha256": "a1f0cfbca4f74fb0765d20cd657984c7c7cfc23ca9c99c1ecd54de399ec5f7bf",
+  "copy_PROYECTO_sha256": "28cd8c2aec8a72b2a547813acc415164269b5b633390b3160c6549917b6a78ea",
+  "manifest": "MANIFIESTO_COPIA_REANUDADO.jsonl.gz",
+  "NativeOpened": false,
+  "new_ticks": 0,
+  "functional_reopening_tested": false,
+  "additional_principal_checkpoint_files": 132,
+  "additional_principal_checkpoint_bytes": 298074636,
+  "additional_checkpoints_referenced_in_history": 132,
+  "Native_binary_and_WHL_identity_verified": true,
+  "PE_architecture": {
+    "motor/python313/python.exe": "AMD64",
+    "motor/python313/site-packages/dee_thinking/_native.cp313-win_amd64.pyd": "AMD64"
+  },
+  "relative_python_path_configuration": true,
+  "resource_locators_resolved": 58,
+  "final_manifest_gzip_CRC_and_JSON_valid": true,
+  "manifest_unique_product_files": 131002,
+  "manifest_sha256": "bb2f5533b012e370528ebe845dd639055033fd13eea7b8b1898b6a80260909b9",
+  "finalized": "2026-11-20T09:48:59.457080-06:00",
+  "own_temporary_control_files_retired": [
+    {
+      "name": "CONTROL_COPIA.py",
+      "bytes": 20638,
+      "sha256": "ce0ee4f25448282d52eeed8344d8714e342b15a44a5eb09bcf0d3dc08163925d"
+    },
+    {
+      "name": "MANIFIESTO_COPIA.jsonl.gz",
+      "bytes": 1559762,
+      "sha256": "88349e3627ca72561a2d1bd36e728f2b9a443b8c86f754680bfed965bba2b3d8"
+    },
+    {
+      "name": "RECUPERACION_COPIADOR.json",
+      "bytes": 270,
+      "sha256": "f0195a2782f12efed129b010ded01448cc306c143a8c733520059913961ae79c"
+    },
+    {
+      "name": "FINALIZAR_COPIA.py",
+      "bytes": 11020,
+      "sha256": "68f0039c403eec3d724ce059ae88c4958049e2ae2c845eea741f1c8af876df5d"
+    }
+  ]
+}
